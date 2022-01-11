@@ -43,6 +43,8 @@ https://user-images.githubusercontent.com/88273002/148942264-6c90af23-7f48-4f68-
 
 ### Voila GUI
 
-Voila GUI Interface Graphic. The user has the possibility to 
+Voila GUI Interface Graphic. 
+The user clicks on the button predict, then the result of the prediction is displayed on ipywidgets box.
+
 https://user-images.githubusercontent.com/88273002/149034339-1912da24-ec19-424d-811c-2f7b90f1b7c1.mp4
 
